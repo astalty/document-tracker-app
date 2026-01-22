@@ -11,6 +11,20 @@ This exercise is split into 2 repositories;
 - The design of the application is not important. Please do not spend too much time on the design of the application. Please focus on the functionality of the application.
 - After the completion of the exercise please keep your local environment running and ready to work on the application further during the review process.
 
+## AI Usage
+
+We strongly encourage the use of AI and during the review process you will be expected to outline the AI tools that you used including any example prompts or prompting strategies that you think are relevant to share.
+
+It is still important to ensure you have small commits throughout the building of the solution to allow for easier review.
+
+## Exercise time
+
+Please spend 1 to 1.5 hours on the exercise.
+
+If you do not complete the exercise in this time, please submit what you have completed.
+
+If you meet all the requirements within this time period, please feel free to add additional features or functionality to the application based on the [Business Problem](/requirements#business-problem).
+
 ## Laravel API
 
 The Document Tracker API is available at [https://github.com/astalty/document-tracker-api](https://github.com/astalty/document-tracker-api).
@@ -31,19 +45,7 @@ As we use Laravel Sanctum for SPA authentication, the domain configuration is im
 
 Please upload your solution to your personal Github account and send us the link to the repositories.
 
-## AI Usage
 
-We strongly encourage the use of AI and during the review process you will be expected to outline the AI tools that you used including any example prompts or prompting strategies that you think are relevant to share.
-
-It is still important to ensure you have small commits throughout the building of the solution to allow for easier review.
-
-## Exercise time
-
-Please spend 1 to 1.5 hours on the exercise.
-
-If you do not complete the exercise in this time, please submit what you have completed.
-
-If you meet all the requirements within this time period, please feel free to add additional features or functionality to the application based on the [Business Problem](/requirements#business-problem).
 
 ## Assumptions
 
