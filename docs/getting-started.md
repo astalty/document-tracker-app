@@ -6,7 +6,7 @@ This exercise is split into 2 repositories;
 - [Vue SPA](#vue-spa)
 
 - You will need to clone each repository to complete the exercise.
-- You will need to be able to run Laravel locally to complete the exercise. We use [Valet](https://laravel.com/docs/10.x/valet) - you are free to use any method you wish.
+- You will need to be able to run Laravel locally to complete the exercise. We use [Herd](https://herd.laravel.com/) - you are free to use any method you wish.
 - Getting the application running locally is not part of the exercise. If you have any issues getting the application running locally, please contact us.
 - The design of the application is not important. Please do not spend too much time on the design of the application. Please focus on the functionality of the application.
 
@@ -30,9 +30,13 @@ As we use Laravel Sanctum for SPA authentication, the domain configuration is im
 
 Please upload your solution to your personal Github account and send us the link to the repositories.
 
+## AI Usage
+
+We strongly encourage the use of AI and during the review process you will be expected to outline the AI tools that you used including any example prompts or prompting strategies that you think are relevant to share.
+
 ## Exercise time
 
-Please spend 2 - 3 hours on the exercise.
+Please spend 1 to 1.5 hours on the exercise.
 
 If you do not complete the exercise in this time, please submit what you have completed.
 
