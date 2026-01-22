@@ -9,6 +9,7 @@ This exercise is split into 2 repositories;
 - You will need to be able to run Laravel locally to complete the exercise. We use [Herd](https://herd.laravel.com/) - you are free to use any method you wish.
 - Getting the application running locally is not part of the exercise. If you have any issues getting the application running locally, please contact us.
 - The design of the application is not important. Please do not spend too much time on the design of the application. Please focus on the functionality of the application.
+- After the completion of the exercise please keep your local environment running and ready to work on the application further during the review process.
 
 ## Laravel API
 
