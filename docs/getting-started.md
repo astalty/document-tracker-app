@@ -35,6 +35,8 @@ Please upload your solution to your personal Github account and send us the link
 
 We strongly encourage the use of AI and during the review process you will be expected to outline the AI tools that you used including any example prompts or prompting strategies that you think are relevant to share.
 
+It is still important to ensure you have small commits throughout the building of the solution to allow for easier review.
+
 ## Exercise time
 
 Please spend 1 to 1.5 hours on the exercise.
